@@ -7,6 +7,9 @@ Vaidyavani is an AI-driven medical recommendation system that provides insights 
 ✅ Dietary Advice – Suggests diet plans based on the entered symptom.
 ✅ User-Friendly Interface – Simple and interactive UI with real-time AI responses.
 ✅ Popup-Based Results – Displays results in a top-right popup window for better readability.
+✅ Blood bank
+✅ Doctors appointment booking based on their location, clinics and hospitals. 
+✅ Medicine reminder application in whatsapp using Twilio.  
 
 🛠️ Tech Stack
 Frontend: React.js (DaisyUI for UI components)
